@@ -96,10 +96,10 @@ Supported builds for Windows are 32 bit only built using Visual Studio 2013 or h
 Install from here: http://www.pixhawk.org/firmware/downloads
 
 #### Install Visual Studio Express 2013
-Only compilation using Visual Studio 2013 is supported. Download and install Visual Studio Express Edition (free) from here: <http://www.visualstudio.com/downloads/download-visual-studio-vs#d-express-windows-desktop>. Make sure you install the Windows Desktop version.
+Only compilation using Visual Studio 2013 is supported. Download and install Visual Studio Express Edition (free) from here: <https://www.microsoft.com/en-au/download/details.aspx?id=44914>. Make sure you install the Windows Desktop version.
 
 #### Install Qt5.4
-Download Qt 5.4 from here: <http://download.qt-project.org/official_releases/qt/5.4/5.4.0/qt-opensource-windows-x86-msvc2013_opengl-5.4.0.exe>
+Download Qt 5.4 from here: <download.qt.io/archive/qt/5.4/5.4.0/qt-opensource-windows-x86-msvc2013_opengl-5.4.0.exe>
   * The Qt variant should be for VS 2013, 32 bit (not 64) and include opengl.
 
 #### Build QGroundControl
